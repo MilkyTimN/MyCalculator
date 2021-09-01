@@ -20,5 +20,6 @@
     <string name="buttonEqual">=</string>
     <string name="buttonModule">+/-</string>
     <string name="buttonDot">.</string>
+    <string name="enter_a_value">Enter a value</string>
 
 </resources>
